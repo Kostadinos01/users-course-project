@@ -1,5 +1,30 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Dr. Joanna Rosenbaum",
+      "id": 2
+    },
+    {
+      "name": "Billie Bradtke",
+      "id": 3
+    },
+    {
+      "name": "Matthew Ebert",
+      "id": 4
+    },
+    {
+      "name": "Willie Hintz",
+      "id": 5
+    },
+    {
+      "name": "Ross Kihn",
+      "id": 6
+    }
+  ],
   "albums": [],
   "photos": []
 }
